@@ -19,6 +19,7 @@ public class Day02_NavigationMethods {
         driver.navigate().back();
         driver.navigate().forward();
         driver.navigate().refresh();
+
         driver.close();
 
 
